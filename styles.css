@@ -880,10 +880,17 @@ img {
 }
 
 /* ==========================================
+   ORGANIZERS SECTION
+   ========================================== */
+.organizers-section {
+  background: var(--color-bg-primary);
+}
+
+/* ==========================================
    SPONSORS SECTION
    ========================================== */
 .sponsors-section {
-  background: var(--color-bg-primary);
+  background: var(--color-bg-secondary);
   text-align: center;
 }
 
