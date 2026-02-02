@@ -77,10 +77,6 @@ function initStickyCFP() {
     }
   });
   
-  // Click handler for sticky CFP button
-  stickyBtn.addEventListener('click', () => {
-    openCFPModal();
-  });
 }
 
 // ==========================================
